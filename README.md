@@ -4,5 +4,5 @@
 #
 ## Blog app built on NodeJS, Express, and MongoDB
 ### Future Improvements:
-#### -Add Vue.js for front-end
+#### -Implement Vue.js
 #### -Other things (more to come)
